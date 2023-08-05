@@ -110,11 +110,11 @@ font-size: 18px;
 }
 
 
-/* @media (max-width: 700px) {
-    body{
-        background-color: #ad1b1b;
-        width: 50%;
+@media (max-width: 700px) {
+    .search button{
+      background: none;
+        
     }
    
 
-} */
+}
