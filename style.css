@@ -113,6 +113,7 @@ font-size: 18px;
 @media (max-width: 700px) {
     .search button{
       background: none;
+      /* padding-right: 10px; */
         
     }
    
